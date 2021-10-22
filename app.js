@@ -36,7 +36,7 @@ const App = (
             </div>
             <div className='title'>
 
-                <img src="paris.jpg" alt="Logo" />
+                <img src="pics/paris.jpg" alt="Logo" />
                 <div className='card'>
                     <p>Paris</p>
                     <p>Sat 28 Nov 2017</p>
