@@ -1,0 +1,56 @@
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+
+}
+.main-title{
+    text-align: center;
+    font-family: "Segoe UI",Arial,sans-serif;
+    font-weight: 400;
+    margin: 10px 0;
+}
+.something {
+    text-align: center;
+    color: darkgrey;
+}
+.d-flex{
+    display: flex;
+    justify-content: space-between;
+}
+.second{
+    padding: 20px;
+    margin-top: 20vh;
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+}
+ img{
+    width: 200px;
+    height: 200px;
+}
+ .title{
+     margin-top: 10vh;
+     text-align: center;
+ }
+ h1{
+     text-align: center;
+ }
+ h3{
+     font-style: italic;
+ }
+ .card{
+     padding: 10px;
+     margin: 10px;
+     background-color: white;
+ }
+ .title img{
+     width: 230px;
+ }
+ button{
+     width: 100px;
+     height: 40px;
+     background-color: black;
+     color: white;
+     text-align: center;
+
+ }
